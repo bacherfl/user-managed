@@ -1,0 +1,4 @@
+deploymentURIsLocal:
+  - "http://my-local-url:80"
+deploymentURIsPublic:
+  - "http://172.29.235.174"
